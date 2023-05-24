@@ -1,0 +1,22 @@
+
+body {
+    background-image: url(./form_1.jpg);
+    background-size: contain;
+    height: 800px;
+    /* background-color: aqua; */
+}
+
+p {
+    font-size: 24px;
+    font-weight: bold;
+    color: rgba(9, 9, 119, 0.845);
+}
+
+.continer {
+    margin: 50px;
+}
+
+
+table  {
+    border: 1px solid #000000;
+}
